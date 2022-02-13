@@ -1,0 +1,36 @@
+mainauf {
+    Integer a=3
+    Integer b= 12
+    Float c = 9.23
+    (Integer) b
+    (Float) 4
+    while(a<b){
+        left -- a
+         if(a<b){
+               right ++ a
+               left -- b
+               right ++ b
+
+                     while(a>b){
+                            a=  wuf func(b)
+                     }
+
+         }else { right ++ b }
+        break
+    }
+    for(Integer i = 0; i<3; right ++ i){
+        left -- b
+    }
+
+    b=  wuf func(a)
+}
+
+auf Integer func(Integer v){
+
+    Integer d = (2+4)
+
+        while(d<v){
+            left -- d
+        }
+    return (1+2);
+    }
