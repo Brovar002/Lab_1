@@ -1,4 +1,4 @@
-package by.goncharov;
+package by.goncharov.compile;
 
 /**
  * Hello world!
