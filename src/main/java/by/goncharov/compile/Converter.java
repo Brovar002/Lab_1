@@ -12,6 +12,7 @@ public class Converter {
     private List<String> code = new ArrayList<>();
 
     public void toJava(List<String> code, Path path) {
+        this.code.add("package by.goncharov;");
         this.code.add("public class Test{");
         this.code.add("private static Test test = new Test();");
         this.code.addAll(code);
